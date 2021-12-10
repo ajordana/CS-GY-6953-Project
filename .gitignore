@@ -1,0 +1,6 @@
+unactuated_benchmark/log
+unactuated_benchmark/figures
+unactuated_benchmark/datasets/
+unactuated_benchmark/png/
+unactuated_benchmark/__pycache__/
+actuated_node/__pycache__/
